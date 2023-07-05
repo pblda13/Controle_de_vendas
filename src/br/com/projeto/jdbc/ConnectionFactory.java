@@ -5,9 +5,9 @@
  */
 package br.com.projeto.jdbc;
 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
-
 
 
 /**
@@ -15,14 +15,20 @@ import java.sql.DriverManager;
  * @author Pâmela
  */
 public class ConnectionFactory {
-    
-    public Connection getConnection(){
-        
+
+    public Connection getConnection() {
+
         try {
-            return DriverManager.getConnection("jdbc:mysql://127.0.0.1/bdvendas","teste","123");
-        } catch (Exception e) {
-            throw new RuntimeException(e);
+
+            return DriverManager.getConnection("jdbc:mysql://localhost:3306/bdvendas", "root", "root");
+           
+
+        } catch (Exception erro) {
+            
+            throw new RuntimeException(erro);
         }
-    
+        
+       
     }
+
 }
