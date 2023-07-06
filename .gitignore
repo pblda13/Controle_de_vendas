@@ -1,1 +1,35 @@
+# Ignorar arquivos gerados pelo NetBeans
+/nbproject/private/
+/build/
 /dist/
+/nbbuild/
+/nbdeploy/
+
+# Ignorar arquivos de configuração do NetBeans
+/nbproject/*.properties
+/nbproject/cache/
+/nbproject/ant-deploy.xml
+/nbproject/nb-configuration.xml
+
+# Ignorar arquivos específicos de IDE
+/.nb-gradle/
+/nb-configuration.xml
+
+# Ignorar arquivos de build do Maven
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/maven-jar-plugin/
+
+# Ignorar arquivos de log e cache
+/log/
+/cache/
+
+# Ignorar arquivos temporários
+/tmp/
+*.tmp
