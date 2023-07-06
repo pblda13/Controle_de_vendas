@@ -2,6 +2,15 @@
 
 Este é um sistema desktop desenvolvido em Java para controle de estoque, vendas, gerenciamento de funcionários, clientes, produtos, fornecedores, histórico de vendas, baixa em estoque e permissões de acesso. Ele também utiliza um banco de dados MySQL para armazenar os dados.
 
+
+
+## 💻 Apresentação:
+
+<p align="center">
+<a href="https://github.com/pblda13/Projeto-Loteria">
+<img  width="1000"  height="600" src="5.gif">
+</p>
+
 ## Características principais
 
 - Controle de estoque: permite registrar e gerenciar os produtos em estoque, incluindo informações como nome, quantidade, preço, fornecedor, etc.
@@ -47,4 +56,6 @@ Além do código-fonte do sistema, também fornecemos uma documentação detalha
 ## Contribuições
 
 Este sistema foi desenvolvido como parte de um curso de programação Java, mas estamos abertos a contribuições e melhorias. Se você tiver sugestões ou identificar algum problema, sinta-se à vontade para enviar pull requests ou relatar problemas no repositório do projeto.
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FControle_de_vendas&label=Visitors&labelColor=%23d9e3f0&countColor=%23f47373)
 
