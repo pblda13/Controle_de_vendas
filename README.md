@@ -7,7 +7,7 @@ Este é um sistema desktop desenvolvido em Java para controle de estoque, vendas
 ## 💻 Apresentação:
 
 <p align="center">
-<a href="https://github.com/pblda13/Projeto-Loteria">
+<a href="https://github.com/pblda13/Controle_de_vendas">
 <img  width="1000"  height="600" src="5.gif">
 </p>
 
